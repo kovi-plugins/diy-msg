@@ -1,0 +1,16 @@
+[package]
+name = "kovi-plugin-diy-msg"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+ahash = "0.8.12"
+anyhow = "1.0.98"
+base64 = "0.22.1"
+image = "0.25.6"
+kovi = ">=0.12"
+parking_lot = "0.12.4"
+rand = "0.9.1"
+regex = "1.11.1"
+reqwest = "0.12.22"
+serde = "1"
