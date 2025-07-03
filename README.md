@@ -1,4 +1,4 @@
-# Kovi 的 diy-msg
+# Kovi 的 diymsg
 
 通过消息命令构造简单的回应
 
